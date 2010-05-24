@@ -2,15 +2,15 @@
 " @Author:      Tom Link (mailto:micathom AT gmail com?subject=vim-TortoiseSVN)
 " @License:     GPL (see http://www.gnu.org/licenses/gpl.txt)
 " @Created:     13-Mai-2005.
-" @Last Change: 2010-04-08.
-" @Revision:    0.4.222
+" @Last Change: 2010-05-01.
+" @Revision:    0.4.223
 " 
 " http://www.vim.org/scripts/script.php?script_id=1284
 
-if &cp || exists("loaded_tortoisesvn")
+if &cp || exists("loaded_TortoiseSVN")
     finish
 endif
-let loaded_tortoisesvn = 3
+let loaded_TortoiseSVN = 3
 
 if !exists('g:tortoiseSvnCmd')
     if &shell =~ 'sh'
