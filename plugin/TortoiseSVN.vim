@@ -2,10 +2,9 @@
 " @Author:      Tom Link (mailto:micathom AT gmail com?subject=vim-TortoiseSVN)
 " @License:     GPL (see http://www.gnu.org/licenses/gpl.txt)
 " @Created:     13-Mai-2005.
-" @Last Change: 2010-05-01.
-" @Revision:    0.4.223
-" 
-" http://www.vim.org/scripts/script.php?script_id=1284
+" @Last Change: 2011-05-26.
+" @Revision:    0.4.224
+" GetLatestVimScripts: 1284 0 :AutoInstall: TortoiseSVN.vim
 
 if &cp || exists("loaded_TortoiseSVN")
     finish

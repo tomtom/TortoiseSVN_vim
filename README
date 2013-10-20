@@ -1,5 +1,3 @@
-TortoiseSVN (VIM plugin) -- Support for TortoiseSVN (a subversion client for Windows)
-
 Status:  Not in use (I wouldn't know if there were problems)
 Install: See http://github.com/tomtom/vimtlib/blob/master/INSTALL.TXT
 See http://github.com/tomtom for related plugins.
